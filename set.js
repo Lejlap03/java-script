@@ -11,7 +11,6 @@
 
 
 
-
 //4.16
 
 // for(let i=100; i<1000;i++){
@@ -58,19 +57,19 @@
 //4.18
 
 // let n= 0;
-// let suma=0;
+// let broj=0;
 
-// for(let b=0; b<=9; b++)
+// for(let a=0; a<=9; a++)
 //     for(let b=0; b<=9; b++){
-//                 for( let c=0; c<=0; c++)
-//                 broj=a*100+b*10+c;
+//                 for( let c=0; c<=9; c++)
+//                 broj =a *100+b*10+c;
 //                 let dveCifre= a*10+c;
         
 //                 if(a+b+c===5){
 //                     broj+=a*100+b
 //                 }
 //             }
-
+        
 
 
 
@@ -83,15 +82,12 @@
 //     if(broj%i===0){
 //         console.log(i);
 //     }
-//}
+// }
 
 
 
 //4.20
-
-
 // let broj = parseInt(prompt('unesite broj'))
-
 // let suma=0;
 
 // for(let i=1; i<broj; i++){
@@ -103,7 +99,7 @@
 // }
 
 // if(suma==broj){
-//     console.log(' broj deljiv je',broj);
+//     console.log(' broj deljiv je');
 // }else{
 //     console.log('broj nije deljiv');
 // }
@@ -122,7 +118,7 @@
 // }
 //  }
 // console.log(`prosecna ocena je ${suma/n}`);
-// console.log(`prosecna ocena je ${jedinica je}`);
+// console.log(`broj jedinica ${jedinica je}`);
 
 
 
